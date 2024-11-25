@@ -1,0 +1,67 @@
+.mainbox
+{
+    width: 100%;
+    height: 749px;
+    background: rgb(2,0,36);
+background: radial-gradient(circle, rgb(66, 62, 145) 0%, rgba(44,44,93,1) 35%, rgb(78, 81, 128) 100%);
+border-radius: 9px 9px 0px 0px;
+}
+.nav1
+{
+    width: 100%;
+    height: 65px;
+   background-color: rgba(255, 255, 255, 0.466);
+   border-radius: 9px 9px 0px 0px;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+}
+.header
+{
+  font-size: 12px;
+  font-family: 'Times New Roman', Times, serif;
+  cursor: pointer;
+  color: blueviolet;
+}
+.header:hover
+{
+    color: rgb(20, 204, 66);
+}
+.header:active
+{
+    color: darkblue;
+}
+.sidenav
+{
+    width: 10%;
+    height: 684px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgba(24, 13, 59, 0.753);
+}
+.icon
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(54, 26, 80);
+}
+.contentbox
+{
+    width: 90%;
+    height: 684px;
+    overflow: scroll;
+    color: rgba(245, 245, 245, 0.541);
+    margin-left: 10px;
+}
+.commonbox
+{
+    display: flex;
+}
+.text
+{
+    text-align: center;
+    color: white;
+}

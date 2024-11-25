@@ -1,0 +1,45 @@
+.mainbox
+{
+    width: 50%;
+    height: 300px;
+    border: 3px solid gray;
+}
+.firstbox
+{
+    width: 5%;
+    height: 70px;
+    border: 3px solid gray;
+    margin: 5px;
+}
+.secondbox
+{
+    width: 5%;
+    height: 70px;
+    border: 3px solid gray;
+    margin-top: 131px;
+    margin-left: 5px;
+}
+.thirdbox
+{
+    width: 5%;
+    height: 70px;
+    border: 3px solid gray;
+    margin-top: -283px;
+    margin-left: 742px;
+}
+.fourthbox
+{ 
+    width: 5%;
+    height: 70px;
+    border: 3px solid gray;
+    margin-top: 126px;
+    margin-left: 743px;
+}
+.centerbox
+{
+    width: 10%;
+    height: 100px;
+    border: 3px solid gray;
+    margin-top: -206px;
+    margin-left: 335px
+}

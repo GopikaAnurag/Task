@@ -1,0 +1,15 @@
+.main
+{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+}
+.main:hover
+{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    background-color: green;
+    transition:width 5s, height 5s, background-color 5s, border-radius 9s, transform 5s;
+    transform: rotate(180deg);
+}

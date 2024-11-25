@@ -1,0 +1,93 @@
+.mainbox
+{
+    width: 100%;
+    height: 749px;
+    display: flex;
+}
+.bluebox
+{
+    width: 10%;
+    height: 749px;
+    background-color: rgb(84, 135, 228);
+}
+.greenbox
+{
+    width: 90%;
+    height: 749px;
+    background-color: green;
+}
+.top
+{
+    width: 100%;
+    height: 375px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.commonbox
+{
+    width: 95%;
+    height: 317px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: brown;
+}
+.left
+{
+    width: 16%;
+    height: 280px;
+}
+.yellowbox
+{
+    width: 85%;
+    height: 280px;
+    background-color: yellow;
+}
+.right
+{
+    width: 78%;
+    height: 280px;
+}
+.up
+{
+    width: 100%;
+    height: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.darkbluebox
+{
+    width: 95%;
+    height: 130px;
+   background-color: darkblue; 
+}
+.down
+{
+    width: 100%;
+    height: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.whitebox
+{
+    width: 20%;
+    height: 110px;
+    background-color: white;
+}
+.bottom
+{
+    width: 100%;
+    height: 373px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.sub
+{
+    width: 20%;
+    height: 250px;
+    background-color: white;
+}
